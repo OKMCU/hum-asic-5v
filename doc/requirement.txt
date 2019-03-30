@@ -1,0 +1,3 @@
+PCBA is modified from 12v version.
+Please take 12v version as a reference.
+Use 3-leg inductor instead of 2-leg inductor as voltage boost component.
